@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/File-05-12-29">
+  <img src="https://telegra.ph/6b9ded92b2928c6345b391558a159d20jpg-05-12">
 </p>
 
 <h4><p align="center"> EMIKO ROBOT </p></h4>

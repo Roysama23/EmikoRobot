@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/6b9ded92b2928c6345b391558a159d20jpg-05-12">
+  <img src="https://telegra.ph/file/9bc0fcc8085c7056c93b5.jpg">
 </p>
 
-<h4><p align="center"> EMIKO ROBOT </p></h4>
+<h4><p align="center"> ALDI ROBOT </p></h4>
 
 <p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
